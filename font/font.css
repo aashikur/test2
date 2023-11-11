@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'loto';
+  src: url('lato.eot'); /* IE9 Compat Modes */
+  src: url('lato.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('lato.woff2') format('woff2'), /* Super Modern Browsers */
+       url('lato.woff') format('woff'), /* Pretty Modern Browsers */
+       url('lato.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('lato.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
